@@ -1,0 +1,563 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Hearthwood Furniture",
+          "path": "/homepage",
+          "heroTitle": "Furniture Built to Last Generations",
+          "heroSubtitle": "Handcrafted Solid Wood Furniture Since 1984",
+          "heroDescription": {
+            "processed": "<p>Hearthwood creates heirloom-quality furniture from sustainably sourced hardwoods. Every piece is handcrafted in our Vermont workshop by skilled artisans who take pride in joinery, grain selection, and finishes that reveal the natural beauty of wood.</p>",
+            "summary": "Hearthwood creates heirloom-quality furniture from sustainably sourced hardwoods. Every piece is handcrafted in our Vermont workshop by skilled artisans who take pride in joinery, grain selection, and"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "40+",
+              "label": "Years of Craft"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-artisans",
+              "title": "",
+              "number": "60",
+              "label": "Skilled Artisans"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-showroom",
+              "title": "",
+              "number": "15,000",
+              "label": "Sq Ft Showroom"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-sustainable",
+              "title": "",
+              "number": "100%",
+              "label": "Sustainable Wood"
+            }
+          ],
+          "featuredItemsTitle": "Our Collections",
+          "ctaTitle": "Visit Our Showroom",
+          "ctaDescription": {
+            "processed": "<p>Experience our furniture in person at our 15,000 square foot showroom in Burlington, Vermont. Our design consultants will help you select pieces that match your style, space, and lifestyle.</p>",
+            "summary": "Experience our furniture in person at our 15,000 square foot showroom in Burlington, Vermont. Our design consultants will help you select pieces that match your style, space, and lifestyle."
+          },
+          "ctaPrimary": "Book a Visit",
+          "ctaSecondary": "Browse Collections"
+        }
+      }
+    }
+  },
+  "/collections/vermont-modern": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProductLine",
+          "id": "line-vermont-modern",
+          "title": "Vermont Modern",
+          "path": "/collections/vermont-modern",
+          "body": {
+            "processed": "<p>Clean lines meet warm wood in our Vermont Modern collection. Inspired by mid-century design principles and crafted with traditional joinery, these pieces bridge the gap between contemporary aesthetics and timeless craftsmanship.</p><p>Each piece features exposed mortise-and-tenon joints, hand-rubbed oil finishes, and carefully bookmatched wood grain that showcases the natural character of American hardwoods.</p><h2>Available Pieces</h2><ul><li>Dining tables (seats 4-12)</li><li>Sideboards and buffets</li><li>Platform beds and nightstands</li><li>Desks and media consoles</li><li>Coffee and end tables</li></ul>",
+            "summary": "Clean lines meet warm wood in our Vermont Modern collection. Inspired by mid-century design principles and crafted with traditional joinery, these pieces bridge the gap between contemporary aesthetics"
+          },
+          "tagline": "Where mid-century meets master craft",
+          "priceRange": "$1,200 - $8,500",
+          "materials": [
+            "Black Walnut",
+            "White Oak",
+            "Cherry"
+          ],
+          "style": "Mid-Century Modern",
+          "pieceCount": 24,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+            "alt": "Modern solid wood dining table in a bright room",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/collections/farmstead": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProductLine",
+          "id": "line-farmstead",
+          "title": "Farmstead",
+          "path": "/collections/farmstead",
+          "body": {
+            "processed": "<p>Rooted in New England's agricultural heritage, the Farmstead collection celebrates the honest beauty of reclaimed and naturally distressed wood. These pieces bring warmth and character to any space with their generous proportions and rustic elegance.</p><p>Many Farmstead pieces incorporate reclaimed barn wood from historic Vermont structures, giving each piece a unique story and patina that cannot be replicated.</p><h2>Available Pieces</h2><ul><li>Harvest tables and farm benches</li><li>Hutches and pie safes</li><li>Barn door media cabinets</li><li>Trestle desks</li><li>Storage benches and coat racks</li></ul>",
+            "summary": "Rooted in New England's agricultural heritage, the Farmstead collection celebrates the honest beauty of reclaimed and naturally distressed wood. These pieces bring warmth and character to any space wi"
+          },
+          "tagline": "Honest furniture with history and heart",
+          "priceRange": "$800 - $6,500",
+          "materials": [
+            "Reclaimed Barn Wood",
+            "Pine",
+            "Maple"
+          ],
+          "style": "Rustic Farmhouse",
+          "pieceCount": 18,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=800&q=80",
+            "alt": "Rustic farmhouse dining table with bench seating",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/collections/studio": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProductLine",
+          "id": "line-studio",
+          "title": "Studio",
+          "path": "/collections/studio",
+          "body": {
+            "processed": "<p>Designed for modern living spaces where every square foot counts, the Studio collection delivers the same Hearthwood quality in space-conscious proportions. Multifunctional designs, integrated storage, and modular options make these pieces perfect for apartments and smaller homes.</p><p>Every Studio piece can be customized to your exact dimensions, ensuring a perfect fit for your space.</p><h2>Available Pieces</h2><ul><li>Compact dining sets</li><li>Wall-mounted desks and shelving</li><li>Storage beds with drawers</li><li>Nesting tables</li><li>Modular shelving systems</li></ul>",
+            "summary": "Designed for modern living spaces where every square foot counts, the Studio collection delivers the same Hearthwood quality in space-conscious proportions. Multifunctional designs, integrated storage"
+          },
+          "tagline": "Smart design for modern spaces",
+          "priceRange": "$600 - $4,200",
+          "materials": [
+            "White Oak",
+            "Ash",
+            "Maple"
+          ],
+          "style": "Contemporary Minimalist",
+          "pieceCount": 16,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+            "alt": "Minimalist desk and shelving in a modern apartment",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/inspiration/modern-living-room": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-living-modern",
+          "title": "Modern Living Room",
+          "path": "/inspiration/modern-living-room",
+          "body": {
+            "processed": "<p>This living room design pairs our Vermont Modern coffee table and media console with a neutral sofa and warm textiles to create a space that's both stylish and inviting. The black walnut pieces anchor the room while allowing the natural light to shine.</p><p>The key to this look is balance: clean-lined furniture paired with soft textures like linen, wool, and natural fiber rugs. Plants and ceramics add organic warmth without clutter.</p>",
+            "summary": "This living room design pairs our Vermont Modern coffee table and media console with a neutral sofa and warm textiles to create a space that's both stylish and inviting. The black walnut pieces anchor"
+          },
+          "roomType": "Living Room",
+          "designStyle": "Mid-Century Modern",
+          "budgetRange": "$4,500 - $7,000",
+          "featuredPieces": [
+            "Vermont Modern Coffee Table",
+            "Vermont Modern Media Console",
+            "Vermont Modern Side Table"
+          ],
+          "colorPalette": "Warm neutrals with walnut accents",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+            "alt": "Modern living room with walnut furniture and neutral tones",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/inspiration/farmhouse-dining-room": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-farmhouse-dining",
+          "title": "Farmhouse Dining Room",
+          "path": "/inspiration/farmhouse-dining-room",
+          "body": {
+            "processed": "<p>Gather around our Farmstead harvest table for meals that bring people together. This dining room design seats ten comfortably and showcases the beauty of reclaimed wood against whitewashed walls and industrial lighting.</p><p>The matching farm bench on one side and Windsor chairs on the other create an informal, welcoming atmosphere perfect for family dinners and holiday gatherings.</p>",
+            "summary": "Gather around our Farmstead harvest table for meals that bring people together. This dining room design seats ten comfortably and showcases the beauty of reclaimed wood against whitewashed walls and i"
+          },
+          "roomType": "Dining Room",
+          "designStyle": "Rustic Farmhouse",
+          "budgetRange": "$3,000 - $5,500",
+          "featuredPieces": [
+            "Farmstead Harvest Table",
+            "Farmstead Farm Bench",
+            "Farmstead Hutch"
+          ],
+          "colorPalette": "White, natural wood, iron accents",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+            "alt": "Rustic farmhouse dining room with harvest table",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/inspiration/studio-apartment-bedroom": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-studio-bedroom",
+          "title": "Studio Apartment Bedroom",
+          "path": "/inspiration/studio-apartment-bedroom",
+          "body": {
+            "processed": "<p>Maximize your small space without sacrificing style. Our Studio collection storage bed with built-in drawers eliminates the need for a separate dresser, while the wall-mounted nightstand shelves keep the floor clear for a spacious feel.</p><p>The white oak pieces brighten the room and pair beautifully with soft linens and minimalist decor. Every inch of this design is intentional and functional.</p>",
+            "summary": "Maximize your small space without sacrificing style. Our Studio collection storage bed with built-in drawers eliminates the need for a separate dresser, while the wall-mounted nightstand shelves keep "
+          },
+          "roomType": "Bedroom",
+          "designStyle": "Contemporary Minimalist",
+          "budgetRange": "$2,200 - $3,800",
+          "featuredPieces": [
+            "Studio Storage Bed",
+            "Studio Wall Nightshelf",
+            "Studio Modular Shelving"
+          ],
+          "colorPalette": "Light oak, soft whites, sage green",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+            "alt": "Minimalist bedroom with light oak furniture and clean lines",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/designers/anna-lindberg": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDesigner",
+          "id": "designer-anna",
+          "title": "Anna Lindberg",
+          "path": "/designers/anna-lindberg",
+          "body": {
+            "processed": "<p>Anna is the creative force behind Hearthwood's most iconic collections, including Vermont Modern. Trained in Scandinavian furniture design, she brings a deep understanding of form, function, and materiality to every piece she creates.</p><p>Her philosophy centers on the idea that great furniture should disappear into daily life -- beautiful enough to admire, comfortable enough to forget. Anna's designs have been featured in Dwell, Architectural Digest, and the Smithsonian Cooper Hewitt Design Museum.</p>",
+            "summary": "Anna is the creative force behind Hearthwood's most iconic collections, including Vermont Modern. Trained in Scandinavian furniture design, she brings a deep understanding of form, function, and mater"
+          },
+          "role": "Head of Design",
+          "specialty": "Modern Wood Furniture Design",
+          "yearsExperience": 22,
+          "education": "Royal Danish Academy of Fine Arts",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+            "alt": "Anna Lindberg, head of design",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/designers/robert-kessler": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDesigner",
+          "id": "designer-robert",
+          "title": "Robert Kessler",
+          "path": "/designers/robert-kessler",
+          "body": {
+            "processed": "<p>Robert is our master craftsman and workshop director, responsible for translating design concepts into production-ready pieces. A fourth-generation woodworker, he learned traditional joinery from his grandfather and has spent three decades perfecting techniques that make Hearthwood furniture structurally superior.</p><p>Under Robert's direction, our workshop produces furniture using time-honored methods -- mortise-and-tenon joints, dovetails, and hand-rubbed finishes -- that ensure every piece will last for generations.</p>",
+            "summary": "Robert is our master craftsman and workshop director, responsible for translating design concepts into production-ready pieces. A fourth-generation woodworker, he learned traditional joinery from his "
+          },
+          "role": "Master Craftsman & Workshop Director",
+          "specialty": "Traditional Joinery & Wood Finishing",
+          "yearsExperience": 32,
+          "education": "North Bennet Street School, Boston",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Robert Kessler, master craftsman",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/designers/mei-tanaka": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDesigner",
+          "id": "designer-mei",
+          "title": "Mei Tanaka",
+          "path": "/designers/mei-tanaka",
+          "body": {
+            "processed": "<p>Mei leads our interior design consultation service, helping clients select and arrange Hearthwood pieces to transform their living spaces. With a background in architecture and interior design, she has an exceptional eye for proportion, flow, and the interplay between furniture and space.</p><p>Mei's room designs have been published in House Beautiful and she regularly speaks at design conferences about sustainable furniture in modern interiors.</p>",
+            "summary": "Mei leads our interior design consultation service, helping clients select and arrange Hearthwood pieces to transform their living spaces. With a background in architecture and interior design, she ha"
+          },
+          "role": "Interior Design Director",
+          "specialty": "Space Planning & Interior Styling",
+          "yearsExperience": 15,
+          "education": "Parsons School of Design, New York",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Mei Tanaka, interior design director",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "about-page",
+          "title": "About Hearthwood Furniture",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Hearthwood Furniture was founded in 1984 by Erik and Ingrid Lindberg in a converted barn in Shelburne, Vermont. What began as a two-person operation making custom tables for local restaurants has grown into one of America's most respected solid wood furniture makers, with a 60-person workshop and a 15,000 square foot showroom in Burlington.</p><h2>Our Craft</h2><p>Every Hearthwood piece is made by hand in our Vermont workshop. We use traditional joinery -- mortise-and-tenon, dovetail, and tongue-and-groove -- because these methods create furniture that's stronger and more durable than anything made with screws, nails, or glue alone. Our finishes are hand-rubbed oils and lacquers that protect the wood while allowing its natural beauty to shine.</p><h2>Sustainability</h2><p>We source 100% of our wood from sustainably managed forests and FSC-certified suppliers. Our workshop is solar-powered, and we repurpose every scrap of wood as heating fuel or donate it to local schools and makers. Furniture that lasts generations is the most sustainable choice of all.</p>",
+            "summary": "Hearthwood Furniture was founded in 1984 by Erik and Ingrid Lindberg in a converted barn in Shelburne, Vermont. What began as a two-person operation making custom tables for local restaurants has grow"
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "contact-page",
+          "title": "Contact Us",
+          "path": "/contact",
+          "body": {
+            "processed": "<p>Visit our showroom to experience Hearthwood furniture in person, or reach out to schedule a design consultation. We also welcome custom commissions for one-of-a-kind pieces.</p><h2>Showroom Hours</h2><p>Monday - Saturday: 10:00 AM - 6:00 PM<br/>Sunday: 11:00 AM - 5:00 PM</p><h2>Location</h2><p>Hearthwood Furniture<br/>184 Pine Street<br/>Burlington, VT 05401</p><h2>Contact</h2><p>Phone: (802) 555-0316<br/>Email: hello@hearthwoodfurniture.com</p><h2>Custom Orders</h2><p>Interested in a custom piece? Contact our design team to discuss your project. Custom orders typically have a 6-8 week lead time.</p>",
+            "summary": "Visit our showroom to experience Hearthwood furniture in person, or reach out to schedule a design consultation. We also welcome custom commissions for one-of-a-kind pieces.Showroom HoursMonday - Satu"
+          }
+        }
+      }
+    }
+  },
+  "/faq": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "faq-page",
+          "title": "Frequently Asked Questions",
+          "path": "/faq",
+          "body": {
+            "processed": "<h2>How long will my order take?</h2><p>Standard collection pieces ship within 4-6 weeks. Custom orders require 6-8 weeks. During peak season (September-December), lead times may extend by 1-2 weeks.</p><h2>Do you offer delivery?</h2><p>Yes! We offer white-glove delivery throughout the Northeast. We carefully deliver your furniture to the room of your choice, assemble any components, and remove all packaging. Nationwide delivery is available through our freight partners.</p><h2>What kind of wood do you use?</h2><p>We work primarily with American hardwoods -- black walnut, white oak, cherry, maple, and ash. All of our wood comes from sustainably managed forests and FSC-certified suppliers.</p><h2>Can I customize a piece?</h2><p>Absolutely. We offer custom sizing, wood species selection, and finish options on all of our collections. Contact our design team to discuss your specific needs and receive a custom quote.</p>",
+            "summary": "How long will my order take?Standard collection pieces ship within 4-6 weeks. Custom orders require 6-8 weeks. During peak season (September-December), lead times may extend by 1-2 weeks.Do you offer "
+          }
+        }
+      }
+    }
+  }
+}

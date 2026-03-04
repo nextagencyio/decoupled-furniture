@@ -1,0 +1,129 @@
+{
+  "data": {
+    "nodeDesigners": {
+      "__typename": "NodeDesignerConnection",
+      "nodes": [
+        {
+          "__typename": "NodeDesigner",
+          "id": "designer-anna",
+          "title": "Anna Lindberg",
+          "path": "/designers/anna-lindberg",
+          "body": {
+            "processed": "<p>Anna is the creative force behind Hearthwood's most iconic collections, including Vermont Modern. Trained in Scandinavian furniture design, she brings a deep understanding of form, function, and materiality to every piece she creates.</p><p>Her philosophy centers on the idea that great furniture should disappear into daily life -- beautiful enough to admire, comfortable enough to forget. Anna's designs have been featured in Dwell, Architectural Digest, and the Smithsonian Cooper Hewitt Design Museum.</p>",
+            "summary": "Anna is the creative force behind Hearthwood's most iconic collections, including Vermont Modern. Trained in Scandinavian furniture design, she brings a deep understanding of form, function, and mater"
+          },
+          "role": "Head of Design",
+          "specialty": "Modern Wood Furniture Design",
+          "yearsExperience": 22,
+          "education": "Royal Danish Academy of Fine Arts",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+            "alt": "Anna Lindberg, head of design",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDesigner",
+          "id": "designer-robert",
+          "title": "Robert Kessler",
+          "path": "/designers/robert-kessler",
+          "body": {
+            "processed": "<p>Robert is our master craftsman and workshop director, responsible for translating design concepts into production-ready pieces. A fourth-generation woodworker, he learned traditional joinery from his grandfather and has spent three decades perfecting techniques that make Hearthwood furniture structurally superior.</p><p>Under Robert's direction, our workshop produces furniture using time-honored methods -- mortise-and-tenon joints, dovetails, and hand-rubbed finishes -- that ensure every piece will last for generations.</p>",
+            "summary": "Robert is our master craftsman and workshop director, responsible for translating design concepts into production-ready pieces. A fourth-generation woodworker, he learned traditional joinery from his "
+          },
+          "role": "Master Craftsman & Workshop Director",
+          "specialty": "Traditional Joinery & Wood Finishing",
+          "yearsExperience": 32,
+          "education": "North Bennet Street School, Boston",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Robert Kessler, master craftsman",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDesigner",
+          "id": "designer-mei",
+          "title": "Mei Tanaka",
+          "path": "/designers/mei-tanaka",
+          "body": {
+            "processed": "<p>Mei leads our interior design consultation service, helping clients select and arrange Hearthwood pieces to transform their living spaces. With a background in architecture and interior design, she has an exceptional eye for proportion, flow, and the interplay between furniture and space.</p><p>Mei's room designs have been published in House Beautiful and she regularly speaks at design conferences about sustainable furniture in modern interiors.</p>",
+            "summary": "Mei leads our interior design consultation service, helping clients select and arrange Hearthwood pieces to transform their living spaces. With a background in architecture and interior design, she ha"
+          },
+          "role": "Interior Design Director",
+          "specialty": "Space Planning & Interior Styling",
+          "yearsExperience": 15,
+          "education": "Parsons School of Design, New York",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Mei Tanaka, interior design director",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

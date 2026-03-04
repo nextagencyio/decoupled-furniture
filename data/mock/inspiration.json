@@ -1,0 +1,144 @@
+{
+  "data": {
+    "nodeRoomInspirations": {
+      "__typename": "NodeRoomInspirationConnection",
+      "nodes": [
+        {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-living-modern",
+          "title": "Modern Living Room",
+          "path": "/inspiration/modern-living-room",
+          "body": {
+            "processed": "<p>This living room design pairs our Vermont Modern coffee table and media console with a neutral sofa and warm textiles to create a space that's both stylish and inviting. The black walnut pieces anchor the room while allowing the natural light to shine.</p><p>The key to this look is balance: clean-lined furniture paired with soft textures like linen, wool, and natural fiber rugs. Plants and ceramics add organic warmth without clutter.</p>",
+            "summary": "This living room design pairs our Vermont Modern coffee table and media console with a neutral sofa and warm textiles to create a space that's both stylish and inviting. The black walnut pieces anchor"
+          },
+          "roomType": "Living Room",
+          "designStyle": "Mid-Century Modern",
+          "budgetRange": "$4,500 - $7,000",
+          "featuredPieces": [
+            "Vermont Modern Coffee Table",
+            "Vermont Modern Media Console",
+            "Vermont Modern Side Table"
+          ],
+          "colorPalette": "Warm neutrals with walnut accents",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+            "alt": "Modern living room with walnut furniture and neutral tones",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-farmhouse-dining",
+          "title": "Farmhouse Dining Room",
+          "path": "/inspiration/farmhouse-dining-room",
+          "body": {
+            "processed": "<p>Gather around our Farmstead harvest table for meals that bring people together. This dining room design seats ten comfortably and showcases the beauty of reclaimed wood against whitewashed walls and industrial lighting.</p><p>The matching farm bench on one side and Windsor chairs on the other create an informal, welcoming atmosphere perfect for family dinners and holiday gatherings.</p>",
+            "summary": "Gather around our Farmstead harvest table for meals that bring people together. This dining room design seats ten comfortably and showcases the beauty of reclaimed wood against whitewashed walls and i"
+          },
+          "roomType": "Dining Room",
+          "designStyle": "Rustic Farmhouse",
+          "budgetRange": "$3,000 - $5,500",
+          "featuredPieces": [
+            "Farmstead Harvest Table",
+            "Farmstead Farm Bench",
+            "Farmstead Hutch"
+          ],
+          "colorPalette": "White, natural wood, iron accents",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+            "alt": "Rustic farmhouse dining room with harvest table",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeRoomInspiration",
+          "id": "room-studio-bedroom",
+          "title": "Studio Apartment Bedroom",
+          "path": "/inspiration/studio-apartment-bedroom",
+          "body": {
+            "processed": "<p>Maximize your small space without sacrificing style. Our Studio collection storage bed with built-in drawers eliminates the need for a separate dresser, while the wall-mounted nightstand shelves keep the floor clear for a spacious feel.</p><p>The white oak pieces brighten the room and pair beautifully with soft linens and minimalist decor. Every inch of this design is intentional and functional.</p>",
+            "summary": "Maximize your small space without sacrificing style. Our Studio collection storage bed with built-in drawers eliminates the need for a separate dresser, while the wall-mounted nightstand shelves keep "
+          },
+          "roomType": "Bedroom",
+          "designStyle": "Contemporary Minimalist",
+          "budgetRange": "$2,200 - $3,800",
+          "featuredPieces": [
+            "Studio Storage Bed",
+            "Studio Wall Nightshelf",
+            "Studio Modular Shelving"
+          ],
+          "colorPalette": "Light oak, soft whites, sage green",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+            "alt": "Minimalist bedroom with light oak furniture and clean lines",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

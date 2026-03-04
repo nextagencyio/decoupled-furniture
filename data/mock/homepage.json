@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Hearthwood Furniture",
+          "path": "/homepage",
+          "heroTitle": "Furniture Built to Last Generations",
+          "heroSubtitle": "Handcrafted Solid Wood Furniture Since 1984",
+          "heroDescription": {
+            "processed": "<p>Hearthwood creates heirloom-quality furniture from sustainably sourced hardwoods. Every piece is handcrafted in our Vermont workshop by skilled artisans who take pride in joinery, grain selection, and finishes that reveal the natural beauty of wood.</p>",
+            "summary": "Hearthwood creates heirloom-quality furniture from sustainably sourced hardwoods. Every piece is handcrafted in our Vermont workshop by skilled artisans who take pride in joinery, grain selection, and"
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "40+",
+              "label": "Years of Craft"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-artisans",
+              "title": "",
+              "number": "60",
+              "label": "Skilled Artisans"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-showroom",
+              "title": "",
+              "number": "15,000",
+              "label": "Sq Ft Showroom"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-sustainable",
+              "title": "",
+              "number": "100%",
+              "label": "Sustainable Wood"
+            }
+          ],
+          "featuredItemsTitle": "Our Collections",
+          "ctaTitle": "Visit Our Showroom",
+          "ctaDescription": {
+            "processed": "<p>Experience our furniture in person at our 15,000 square foot showroom in Burlington, Vermont. Our design consultants will help you select pieces that match your style, space, and lifestyle.</p>",
+            "summary": "Experience our furniture in person at our 15,000 square foot showroom in Burlington, Vermont. Our design consultants will help you select pieces that match your style, space, and lifestyle."
+          },
+          "ctaPrimary": "Book a Visit",
+          "ctaSecondary": "Browse Collections"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "nodeProductLines": {
+      "__typename": "NodeProductLineConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProductLine",
+          "id": "line-vermont-modern",
+          "title": "Vermont Modern",
+          "path": "/collections/vermont-modern",
+          "body": {
+            "processed": "<p>Clean lines meet warm wood in our Vermont Modern collection. Inspired by mid-century design principles and crafted with traditional joinery, these pieces bridge the gap between contemporary aesthetics and timeless craftsmanship.</p><p>Each piece features exposed mortise-and-tenon joints, hand-rubbed oil finishes, and carefully bookmatched wood grain that showcases the natural character of American hardwoods.</p><h2>Available Pieces</h2><ul><li>Dining tables (seats 4-12)</li><li>Sideboards and buffets</li><li>Platform beds and nightstands</li><li>Desks and media consoles</li><li>Coffee and end tables</li></ul>",
+            "summary": "Clean lines meet warm wood in our Vermont Modern collection. Inspired by mid-century design principles and crafted with traditional joinery, these pieces bridge the gap between contemporary aesthetics"
+          },
+          "tagline": "Where mid-century meets master craft",
+          "priceRange": "$1,200 - $8,500",
+          "materials": [
+            "Black Walnut",
+            "White Oak",
+            "Cherry"
+          ],
+          "style": "Mid-Century Modern",
+          "pieceCount": 24,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+            "alt": "Modern solid wood dining table in a bright room",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProductLine",
+          "id": "line-farmstead",
+          "title": "Farmstead",
+          "path": "/collections/farmstead",
+          "body": {
+            "processed": "<p>Rooted in New England's agricultural heritage, the Farmstead collection celebrates the honest beauty of reclaimed and naturally distressed wood. These pieces bring warmth and character to any space with their generous proportions and rustic elegance.</p><p>Many Farmstead pieces incorporate reclaimed barn wood from historic Vermont structures, giving each piece a unique story and patina that cannot be replicated.</p><h2>Available Pieces</h2><ul><li>Harvest tables and farm benches</li><li>Hutches and pie safes</li><li>Barn door media cabinets</li><li>Trestle desks</li><li>Storage benches and coat racks</li></ul>",
+            "summary": "Rooted in New England's agricultural heritage, the Farmstead collection celebrates the honest beauty of reclaimed and naturally distressed wood. These pieces bring warmth and character to any space wi"
+          },
+          "tagline": "Honest furniture with history and heart",
+          "priceRange": "$800 - $6,500",
+          "materials": [
+            "Reclaimed Barn Wood",
+            "Pine",
+            "Maple"
+          ],
+          "style": "Rustic Farmhouse",
+          "pieceCount": 18,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=800&q=80",
+            "alt": "Rustic farmhouse dining table with bench seating",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProductLine",
+          "id": "line-studio",
+          "title": "Studio",
+          "path": "/collections/studio",
+          "body": {
+            "processed": "<p>Designed for modern living spaces where every square foot counts, the Studio collection delivers the same Hearthwood quality in space-conscious proportions. Multifunctional designs, integrated storage, and modular options make these pieces perfect for apartments and smaller homes.</p><p>Every Studio piece can be customized to your exact dimensions, ensuring a perfect fit for your space.</p><h2>Available Pieces</h2><ul><li>Compact dining sets</li><li>Wall-mounted desks and shelving</li><li>Storage beds with drawers</li><li>Nesting tables</li><li>Modular shelving systems</li></ul>",
+            "summary": "Designed for modern living spaces where every square foot counts, the Studio collection delivers the same Hearthwood quality in space-conscious proportions. Multifunctional designs, integrated storage"
+          },
+          "tagline": "Smart design for modern spaces",
+          "priceRange": "$600 - $4,200",
+          "materials": [
+            "White Oak",
+            "Ash",
+            "Maple"
+          ],
+          "style": "Contemporary Minimalist",
+          "pieceCount": 16,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+            "alt": "Minimalist desk and shelving in a modern apartment",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

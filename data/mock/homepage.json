@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-years",
               "title": "",
-              "number": "40+",
+              "number": "40+", "value": "40+",
               "label": "Years of Craft"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-artisans",
               "title": "",
-              "number": "60",
+              "number": "60", "value": "60",
               "label": "Skilled Artisans"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-showroom",
               "title": "",
-              "number": "15,000",
+              "number": "15,000", "value": "15,000",
               "label": "Sq Ft Showroom"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-sustainable",
               "title": "",
-              "number": "100%",
+              "number": "100%", "value": "100%",
               "label": "Sustainable Wood"
             }
           ],

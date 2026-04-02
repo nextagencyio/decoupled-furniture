@@ -24,7 +24,7 @@ interface RoomInspirationByPathData {
 async function getRoomInspiration(path: string): Promise<DrupalRoomInspiration | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_ROOM_INSPIRATION_BY_PATH, { path })
+    const data = await client.raw(GET_ROOM_INSPIRATION_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching room inspiration:', error)

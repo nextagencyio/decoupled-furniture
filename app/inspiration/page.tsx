@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 async function getRoomInspirations() {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_ROOM_INSPIRATIONS, { first: 50 })
+    const data = await client.raw(GET_ROOM_INSPIRATIONS, { first: 50 })
     return data?.nodeRoomInspirations?.nodes || []
   } catch (error) {
     console.error('Error fetching room inspirations:', error)
@@ -55,7 +55,7 @@ export default async function RoomInspirationsPage() {
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {items.map((item) => (
+              {items.map((item: any) => (
                 <RoomInspirationCard key={item.id} item={item} />
               ))}
             </div>

@@ -63,9 +63,8 @@ export interface DrupalHomepage extends DrupalNode {
   heroDescription?: {
     processed: string
   }
-  featuresTitle?: string
-  featuresSubtitle?: string
-  featuresItems?: DrupalFeature[]
+  statsItems?: DrupalStatItem[]
+  featuredItemsTitle?: string
   ctaTitle?: string
   ctaDescription?: {
     processed: string
@@ -74,13 +73,10 @@ export interface DrupalHomepage extends DrupalNode {
   ctaSecondary?: string
 }
 
-export interface DrupalFeature {
+export interface DrupalStatItem {
   id: string
-  title: string
-  description?: {
-    processed: string
-  }
-  icon?: string
+  number?: string
+  label?: string
 }
 
 export interface HomepageData {
@@ -98,7 +94,7 @@ export interface DrupalProductLine {
   body?: { processed: string; summary?: string }
   tagline?: string
   priceRange?: string
-  materials?: string
+  materials?: string[]
   style?: string
   pieceCount?: number
   image?: { url: string; alt: string; width?: number; height?: number; variations?: { name: string; url: string; width: number; height: number }[] }
@@ -118,7 +114,7 @@ export interface DrupalRoomInspiration {
   roomType?: string
   designStyle?: string
   budgetRange?: string
-  featuredPieces?: string
+  featuredPieces?: string[]
   colorPalette?: string
   image?: { url: string; alt: string; width?: number; height?: number; variations?: { name: string; url: string; width: number; height: number }[] }
 }
